@@ -16,15 +16,15 @@
   <tbody>
     <tr>
       <td><strong>Article 3</strong>: Powering Up: The Ultimate Guide to Electric Mountain Bike Sizing</td>
-      <td><a href="https://www.pdffiller.com/jsfiller-desk19/?flat_pdf_quality=low&lang=en&projectId=1026573937&routeId=29ca58e0f1d9f5ad96ec3b1740c47e42">View Document</a></td>
+      <td><a href="https://www.pdffiller.com/jsfiller-desk19/?flat_pdf_quality=low&lang=en&projectId=1026573937&routeId=29ca58e0f1d9f5ad96ec3b1740c47e42">Read article</a></td>
     </tr>
     <tr>
-      <td><strong>Article 1</strong>: Description of the first article, summarizing its key insights or purpose.</td>
-      <td><a href="./path-to-your-first-pdf.pdf">First PDF Article</a></td>
+      <td><strong>Article 1</strong>: Analog Signals and Systems: Spectral Analysis and Digital Filtering Explained</td>
+      <td><a href="./CR_TP_Filtres_Passifs.pdf">Read article</a></td>
     </tr>
     <tr>
-      <td><strong>Article 2</strong>: Description of the second article, focusing on its contributions or relevance.</td>
-      <td><a href="./path-to-your-second-pdf.pdf">Second PDF Article</a></td>
+      <td><strong>Article 2</strong>: From Analog to Digital and Back: Mastering Signal Conversion</td>
+      <td><a href="./Tp_CAN_CNA.pdf">Read article</a></td>
     </tr>
   </tbody>
 </table>
